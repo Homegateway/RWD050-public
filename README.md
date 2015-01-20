@@ -8,8 +8,6 @@ Documentation will follow soon.
 
 Jan 20, 2015 - Initial public version.
 
-Files:
-
 domain.rng
 ==========
 The SDT schema in Relax NG notation, which is a little more reader friendly. See http://relaxng.org/ for details.
