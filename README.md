@@ -6,7 +6,7 @@ them.
 
 Documentation will follow soon.
 
-Jan 20, 2015 - Initial public version.
+Jan 20, 2015 - Initial public snapshot.
 
 domain.rng
 ==========
