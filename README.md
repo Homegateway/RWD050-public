@@ -1,4 +1,4 @@
-# RWD050-public - SDT 2.0
+# RWD050-public - SDT 2.0.1
 
 This repository contains public information and code for the Smart Device Template (SDT) 2.0 modeling tools.
 
@@ -22,6 +22,11 @@ The SDT schema in Relax NG notation, which is a little more reader friendly. See
 Generated XML schemas (ready to use).
 
 ## Version History
+### SDT 2.0.1
+Jun 01, 2015
+
+- Added missing "uri" datatype.
+
 ### SDT 2.0
 May 18, 2015
 
