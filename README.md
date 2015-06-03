@@ -9,8 +9,8 @@ Comments are appreciated. Please send comments via the GitHub "issues" feature.
 ## Documentation 
 You can find further Information here:
 
-- [SDT Components](SDT2.0/docs/SDT_Components.md)
-- [Links & References](SDT2.0/docs/Links.md)
+- [SDT Components](SDT2.0.1/docs/SDT_Components.md)
+- [Links & References](SDT2.0.1/docs/Links.md)
 - [LICENSE](LICENSE)
 
 
