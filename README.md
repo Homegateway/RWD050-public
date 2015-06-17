@@ -15,10 +15,10 @@ You can find further Information here:
 
 
 ## Overview of Files 
-- [domain.rng](SDT2.0/domain.rng)  
+- [domain.rng](SDT2.0.1/domain.rng)  
 The SDT schema in Relax NG notation, which is a little more reader friendly. See [http://relaxng.org/](http://relaxng.org/) for details.
 
-- [domain.xsd](SDT2.0/domain.xsd), [xml.xsd](SDT2.0/xml.xsd)  
+- [domain.xsd](SDT2.0.1/domain.xsd), [xml.xsd](SDT2.0.1/xml.xsd)  
 Generated XML schemas (ready to use).
 
 ## Version History
